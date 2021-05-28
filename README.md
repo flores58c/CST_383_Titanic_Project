@@ -5,10 +5,8 @@ What age ranges are likely to survive?
 Are women or men more likely to survive?
 Higher or lower class more likely to survive?
 
-Report Guidlines
-Category
+Report Guidelines
 
-Explanation
 
 Introduction 10%
 
