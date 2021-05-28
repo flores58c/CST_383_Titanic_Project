@@ -10,40 +10,36 @@ Category
 
 Explanation
 
-%
-
-Introduction
+Introduction 10%
 
 Why was the project undertaken?
 What was the research question, the tested hypothesis or the purpose of the research?
 
-10
 
-Selection of Data
+
+Selection of Data 20%
 
 What is the source of the dataset? Characteristics of data?
 
 Any munging or feature engineering?
 
-20
 
-Methods
+
+Methods 20%
 
 What materials/APIs/tools were used or who was included in answering the research question?
 
-20
 
-Results
+
+Results 20%
 
 What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?
 
-20
 
-Discussion
+Discussion 20%
 
 What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research? Survey about the tools investigated for this assignment.
 
-20
 
 Summary
 
