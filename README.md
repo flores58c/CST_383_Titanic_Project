@@ -26,7 +26,7 @@ Any munging or feature engineering?
 Methods 20%
 
 What materials/APIs/tools were used or who was included in answering the research question?
-
+In this project we used pandas to check for missing values. We used scikit for all machine learning models and for preprocessing the Sex column on data set. We preprocessed with SciKit's label encoder to change male and female to binary representation. We also made use of seaborn to display some data in a graph matrix,distribution plot and scatter plot in our notebook.
 
 
 Results 20%
