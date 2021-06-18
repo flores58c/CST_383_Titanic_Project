@@ -13,7 +13,7 @@ Introduction 10%
 Why was the project undertaken?
 What was the research question, the tested hypothesis or the purpose of the research?
 
-We have taken up this project in order to, study the various demographics of the people onboard the Titanic, determine how various factors influenced their survival. These factors include age, gender, and class. Since these factors typically have strong effects on how an individual is viewed in society, this project can show how these factors may or may not still have held influence in a chaotic situation such as this.
+We have taken up this project in order to, study the various demographics of the people onboard the Titanic, determine how various factors influenced their survival. These factors include age, gender, and class. Since these factors typically have strong effects on how an individual is viewed in society, this project can show how these factors may or may not still have held influence in a chaotic situation such as this. Our generalized hypothesis is that women will survive more than men. 
 
 
 Selection of Data 20%
@@ -41,7 +41,7 @@ As for the collaborative environent, we used Google Colaboratory to be able to a
 Results 20%
 
 What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?
-The answer to our research question turned out to be true. There were far women who survived. The box plot in our ipynb file shows the crystal clear answer. 
+The answer to our research question turned out to be true. There were far more women who survived. The box plot in our ipynb file shows the crystal clear answer. Looking into the data more when we added the 'Pclass' column in a knn regressor the graphs show that those in first class survived more in both men and women. Two subplots were made to show both genders suvival rate/age. 
 
 Discussion 20%
 
