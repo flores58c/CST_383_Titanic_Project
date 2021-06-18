@@ -41,7 +41,7 @@ As for the collaborative environent, we used Google Colaboratory to be able to a
 Results 20%
 
 What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?
-The answer to our research question turned out to be true. There were far more women who survived. The box plot in our ipynb file shows the crystal clear answer. Looking into the data more when we added the 'Pclass' column in a knn regressor the graphs show that those in first class survived more in both men and women. Two subplots were made to show both genders suvival rate/age. 
+The answer to our research question turned out to be true. There were far more women who survived. The box plot in our ipynb file shows the crystal clear answer. Looking into the data more when we added the 'Pclass' column in a knn regressor the graphs show that those in first class survived more in both men and women. Two subplots were made to show both genders suvival rate with respect to age. 
 
 Discussion 20%
 
