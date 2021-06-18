@@ -41,12 +41,12 @@ As for the collaborative environent, we used Google Colaboratory to be able to a
 Results 20%
 
 What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?
-
+The answer to our research question turned out to be true. There were far women who survived. The box plot in our ipynb file shows the crystal clear answer. 
 
 Discussion 20%
 
 What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research? Survey about the tools investigated for this assignment.
-
+I think the answer implies more men were willing to put female passengers before themselves. 
 
 Summary
 
