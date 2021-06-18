@@ -48,6 +48,8 @@ Discussion 20%
 What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research? Survey about the tools investigated for this assignment.
 I think the answer implies more men were willing to put female passengers before themselves. Other researchers have found that a larger percentage of women survived the titanic. See: https://www.anesi.com/titanic.htm
 
+Reference for those who survived in each class: https://www.dummies.com/education/history/titanic-passenger-survival-rates/
+
 Summary
 
 Most important findings.
