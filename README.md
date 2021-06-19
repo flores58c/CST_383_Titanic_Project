@@ -22,7 +22,7 @@ What is the source of the dataset? Characteristics of data?
 
 Any munging or feature engineering?
 
-We sourced our CSV file from Kaggle, which had about 1300 samples whom were passengers of the Titanic. The dataset has several attributes, which range from passenger ID, to Age, to whether or not the passenger survived. We mainly used the Sex, Age, Pclass (Passenger Class) and Survived columns to compute our predicitons.
+We sourced our CSV file from Kaggle, which had about 890 samples whom were passengers of the Titanic. The dataset has several attributes, which range from passenger ID, to Age, to whether or not the passenger survived. We mainly used the Sex, Age, Pclass (Passenger Class) and Survived columns to compute our predicitons.
 
 Data Munging:
 
