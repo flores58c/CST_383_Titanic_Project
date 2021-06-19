@@ -52,7 +52,8 @@ Summary
 Most important findings.
 The most important piece of data was that first class women had a higher probability of surviving. This is because the life boats were more close to first class.
 
-References: 
+References
+
 Kaggle link: https://www.kaggle.com/c/titanic/data
 Additional Researcher's findings: https://www.anesi.com/titanic.htm
 Reference for those who survived in each class: https://www.dummies.com/education/history/titanic-passenger-survival-rates/
